@@ -1,0 +1,56 @@
+[
+    {
+        "category": "Frontend",
+        "items": [
+            {
+                "name": "React",
+                "icon": "⚛"
+            },
+            {
+                "name": "Next.js",
+                "icon": "▲"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "JS"
+            },
+            {
+                "name": "TypeScript",
+                "icon": "TS"
+            },
+            {
+                "name": "GSAP",
+                "icon": "✦"
+            },
+            {
+                "name": "Framer Motion",
+                "icon": "◈"
+            }
+        ]
+    },
+    {
+        "category": "Backend",
+        "items": [
+            {
+                "name": "Node.js",
+                "icon": "⬢"
+            },
+            {
+                "name": "Express",
+                "icon": "ex"
+            },
+            {
+                "name": "MongoDB",
+                "icon": "◇"
+            },
+            {
+                "name": "PostgreSQL",
+                "icon": "◆"
+            },
+            {
+                "name": "Prisma",
+                "icon": "◮"
+            }
+        ]
+    }
+]

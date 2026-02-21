@@ -1,0 +1,20 @@
+{
+    "name": "Avinash",
+    "fullName": "Avinash Shinde",
+    "tagline": "Creative Developer & Problem Solver",
+    "bio": "I am a fresh BCS graduate and currently an intern at Vidyaone IT Solution. With 1 year of hands-on experience in coding, I focus on building functional and aesthetically pleasing web experiences.",
+    "location": "Global / Remote",
+    "availability": "Available for Freelance",
+    "email": "avi.dev5343@gmail.com",
+    "social": {
+        "github": "https://github.com/avinash-shinde-21",
+        "linkedin": "https://www.linkedin.com/in/avinash-shinde-2118bb277/",
+        "twitter": "https://twitter.com"
+    },
+    "resume": "/resume.pdf",
+    "heroWords": [
+        "DEVELOPER",
+        "DESIGNER",
+        "CREATOR"
+    ]
+}

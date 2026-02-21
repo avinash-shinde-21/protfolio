@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "Editorial Blog",
+        "tagline": "Modern blog for content creators",
+        "year": "2026",
+        "tags": [
+            "Next.js",
+            "Tailwind",
+            "Framer Motion",
+            "Fetch API"
+        ],
+        "description": "A fully functional blog platform with Next.js, Tailwind, and Framer Motion. Features markdown support, SEO optimization, and a custom CMS handling fetch API data.",
+        "link": "https://www.trendeveryday.com/",
+        "color": "#d4c5b0",
+        "accent": "#8b7355"
+    },
+    {
+        "id": 2,
+        "title": "Preschool Template I",
+        "tagline": "Playful design for early education",
+        "year": "2026",
+        "tags": [
+            "Next.js",
+            "Tailwind"
+        ],
+        "description": "A creative and interactive website template for preschools, featuring playful animations and a child-friendly interface.",
+        "link": "https://pre-18.vidyaone.com/",
+        "color": "#c5ccd4",
+        "accent": "#455a7a"
+    },
+    {
+        "id": 3,
+        "title": "Preschool Template II",
+        "tagline": "Elegant school landing page",
+        "year": "2026",
+        "tags": [
+            "Next.js",
+            "Tailwind"
+        ],
+        "description": "A second iteration of a preschool website focusing on elegant layout, easy navigation, and responsive design for parents.",
+        "link": "https://pre-16.vidyaone.com/",
+        "color": "#d4cfc5",
+        "accent": "#7a6e55"
+    }
+]
