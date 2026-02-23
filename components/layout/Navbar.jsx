@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 
 const links = [
     { label: 'About', href: '#about' },
@@ -90,7 +90,7 @@ export default function Navbar() {
                     </a>
                 ))}
                 <a
-                    href="/resume.pdf"
+                    href="/assets/Avinash_Shinde_Resume.pdf"
                     data-cursor="pointer"
                     style={{
                         fontFamily: 'var(--font-display)',
